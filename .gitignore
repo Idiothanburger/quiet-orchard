@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.tmp
+
+# Local working files: not published
+HANDOFF.md
+PLAN.md
+artist_matches.csv
+match_cache.json
+nz_timing_log.jsonl

@@ -1,0 +1,60 @@
+name: Release Monitor
+
+on:
+  workflow_dispatch: # manual run from the Actions tab
+  repository_dispatch: # cron-job.org POSTs {"event_type": "check-releases"} every 30 min
+    types: [check-releases]
+
+permissions:
+  contents: write
+
+# One run at a time: overlapping runs would race on seen_releases.json and double-alert.
+concurrency:
+  group: release-monitor
+  cancel-in-progress: false
+
+jobs:
+  check-releases:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Run release check
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ARTISTS_FILE: artists.txt
+          STATE_PATH: seen_releases.json
+          CONCURRENCY: '2'
+          REQUESTS_PER_SECOND: '2'
+          # Trial period: scan and record releases, but post nothing. Set to 'false' to go live.
+          SILENT: 'true'
+          LOG_LEVEL: INFO
+        run: python3 -u notifier.py
+
+      # Runs even if the check failed, so alerts already sent are recorded and not repeated.
+      # No [skip ci] in the message: it would also suppress future dispatch-triggered runs.
+      - name: Commit and push state
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add seen_releases.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+          git commit -m "chore(state): update tracked releases"
+          for attempt in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt), retrying..."
+            sleep 5
+          done
+          exit 1
