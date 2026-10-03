@@ -4479,6 +4479,15 @@
    "release_url": "https://music.amazon.com.au/albums/B09VP1GRPW",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B09VP3Q8VD": {
+   "artist_id": "B096Y6VTK7",
+   "artist_name": "LonePi",
+   "release_name": "x0.lnp",
+   "release_type": "Single",
+   "release_date": "2022-03-23",
+   "release_url": "https://music.amazon.com.au/albums/B09VP3Q8VD",
+   "detected_at": "2026-10-03T07:33:07+00:00"
+  },
   "B09VPHB4NR": {
    "artist_id": "B00LL4B9PE",
    "artist_name": "CHiCO with HoneyWorks & mafumafu",
@@ -6125,6 +6134,15 @@
    "release_date": "2022-10-12",
    "release_url": "https://music.amazon.com.au/albums/B0BHCC5PPM",
    "detected_at": "2026-10-03T05:03:18+00:00"
+  },
+  "B0BHCLLL79": {
+   "artist_id": "B0BHC6XCDW",
+   "artist_name": "Yoshida Yasei",
+   "release_name": "Full chorus RTA 1min.",
+   "release_type": "Single",
+   "release_date": "2022-10-12",
+   "release_url": "https://music.amazon.com.au/albums/B0BHCLLL79",
+   "detected_at": "2026-10-03T07:33:07+00:00"
   },
   "B0BHCM3QNV": {
    "artist_id": "B0BHC6XCDW",
@@ -42935,6 +42953,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0HJZRT2V9",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0HJZRW2F2": {
+   "artist_id": "B0FTV8QMVW",
+   "artist_name": "BOURYOKUTEKINIKAWAII & PSYQUI [feat. NononoNono]",
+   "release_name": "Failurere",
+   "release_type": "Single",
+   "release_date": "2026-09-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HJZRW2F2",
+   "detected_at": "2026-10-03T07:33:07+00:00"
   },
   "B0HJZSNFRD": {
    "artist_id": "B0FTV8QMVW",
