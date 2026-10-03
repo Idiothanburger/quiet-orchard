@@ -1109,6 +1109,10 @@
    "name": "雨良",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DGSJN4HZ": {
+   "name": "MARUMOCHI from HoneyWorks",
+   "baselined_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0DJVCB454": {
    "name": "Milky & PROTOCOLLON",
    "baselined_at": "2026-10-03T03:54:15+00:00"
@@ -23721,6 +23725,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0F5GT5GZ3",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0F5H4TC4S": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. HaKoniwalily]",
+   "release_name": "Kanojo wa Ima Meikyu no Naka",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0F5H4TC4S",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0F5H78GLH": {
    "artist_id": "B07K2N11BD",
    "artist_name": "DENONBU, EmoCosine & Mitsukiyo",
@@ -23837,6 +23850,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0F63F28FW",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0F659X32Z": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Himari Inuzuka(CV:Sayumi Suzushiro)]",
+   "release_name": "Shitsumon Koitte nandeshoka?",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0F659X32Z",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0F668W8VL": {
    "artist_id": "B0H2CW8H88",
@@ -24593,6 +24615,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0F9NHXSMN",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0F9PFWN52": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks",
+   "release_name": "M Academy Install!",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0F9PFWN52",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0F9PKJYWY": {
    "artist_id": "B095VPBTHF",
@@ -27609,6 +27640,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0FNC73461",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0FNCYHCFV": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Homare Udagawa(CV:Miyu Tomita) & Tomare Udagawa(CV:Hina Youmiya)]",
+   "release_name": "Muteki! Kokoro Pair",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FNCYHCFV",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0FNDBPYWD": {
    "artist_id": "B07FFN5CMS",
    "artist_name": "WADATAKEAKI [feat. Kasane Teto & Reml]",
@@ -28842,6 +28882,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0FQT7W9RM",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0FQTHNPPN": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. HaKoniwalily]",
+   "release_name": "Zettai Shousan!",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FQTHNPPN",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0FQTQK84Y": {
    "artist_id": "B01NBKU3CG",
    "artist_name": "Omoinotake",
@@ -29867,6 +29916,24 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0FVLC32F4",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0FVLPXJ21": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Nana Futami(CV:Yuko Natsuyoshi)]",
+   "release_name": "Zettai Shousan!",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FVLPXJ21",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
+  "B0FVMJRLHQ": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Rin Kurita(CV:Hina Tachibana) & Mia Susano(CV:Ayane Sakura)]",
+   "release_name": "Jiko Oshi",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FVMJRLHQ",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0FVRJYT4Q": {
    "artist_id": "B09NJRWH8W",
@@ -32226,6 +32293,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0G6K4ZDPJ",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0G6K78CRY": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Hanon]",
+   "release_name": "Kimi ga Tomoshite Kureta Hikari wo Ima",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0G6K78CRY",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0G6KHQXYL": {
    "artist_id": "B08D779KJZ",
    "artist_name": "Hoshimachi Suisei",
@@ -32460,6 +32536,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0G8WCX4V4",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0G91147HW": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. kotoha]",
+   "release_name": "Kimi no Tonari wa Kuki ga Oishi",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0G91147HW",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0G92858V9": {
    "artist_id": "B07MR9TSJG",
    "artist_name": "Picco & Natsuyama Yotsugi",
@@ -32657,6 +32742,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0GCFFXVD8",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0GCH6M9PH": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Homare Udagawa(CV:Miyu Tomita) & Tomare Udagawa(CV:Hina Youmiya)]",
+   "release_name": "Ninkoro Dance",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GCH6M9PH",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0GCJ9MB3N": {
    "artist_id": "B00FWBEO18",
@@ -33972,6 +34066,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0GKZRDLLL",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0GL2DSL7Z": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Maki Saejima(CV:Akari Kito)]",
+   "release_name": "Koi wa Minamihankyu Star Love",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GL2DSL7Z",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0GL2RQ8X8": {
    "artist_id": "B07LH5B3G1",
    "artist_name": "Sān-Z & HOYO-MiX",
@@ -34727,6 +34830,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0GPCZV8WK",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0GPDRFDV9": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks",
+   "release_name": "Fluorite",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GPDRFDV9",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0GPKSLMFT": {
    "artist_id": "B002XJOU20",
@@ -35501,6 +35613,24 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0GSC4MZYB",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0GSDJLSWV": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks",
+   "release_name": "If you hurry, chill",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GSDJLSWV",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
+  "B0GSDVSMH7": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Airi Suzuki]",
+   "release_name": "Chikai ha Kyunto",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GSDVSMH7",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0GSF5XLHX": {
    "artist_id": "B07LH5B3G1",
@@ -36537,6 +36667,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0GW276G8Y",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0GW7C64PR": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks",
+   "release_name": "M Academy in Blanket",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GW7C64PR",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0GW8B6G2H": {
    "artist_id": "B0DLPHFWQY",
    "artist_name": "Ozon [feat. Hatsune Miku, Kagamine Rin, Kagamine Len, Megurine Luka, Meiko & KAITO]",
@@ -36995,6 +37134,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0GXGH9WF6",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0GXKPML19": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. HaKoniwalily]",
+   "release_name": "Chikai ha Kyunto",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GXKPML19",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0GXKR53PQ": {
    "artist_id": "B0CPY1YFQC",
@@ -38400,6 +38548,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0H35W35KS",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0H35X4THF": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks",
+   "release_name": "Beautiful",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0H35X4THF",
+   "detected_at": "2026-10-03T12:03:17+00:00"
+  },
   "B0H365MBRP": {
    "artist_id": "B00E48Z96Y",
    "artist_name": "Kenshi Yonezu",
@@ -39074,6 +39231,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0H5VKL9T3",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0H5VSG2WF": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. HaKoniwalily]",
+   "release_name": "Otomenohonki",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0H5VSG2WF",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0H5W2DD6V": {
    "artist_id": "B005MGTLIY",
@@ -40766,6 +40932,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0HC2QJFNH",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0HC36K5DJ": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Kuroe Akaishi(CV:Hikari Senga)]",
+   "release_name": "Otomenohonki",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HC36K5DJ",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0HC3P9WL7": {
    "artist_id": "B0GXC75R2M",
@@ -42611,6 +42786,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0HJ8JWQTT",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0HJ8LY6LS": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Sara Hoshikawa]",
+   "release_name": "First Love Reply",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HJ8LY6LS",
+   "detected_at": "2026-10-03T12:03:17+00:00"
   },
   "B0HJBP8NLV": {
    "artist_id": "B0BRZ7Q4J1",
