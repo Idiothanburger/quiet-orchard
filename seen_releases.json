@@ -1275,6 +1275,15 @@
    "release_url": "https://music.amazon.com.au/albums/B073HXRF72",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B073HZBY75": {
+   "artist_id": "B0012F8KAO",
+   "artist_name": "Supercell",
+   "release_name": "Ginirohikousen",
+   "release_type": "EP",
+   "release_date": "2012-12-19",
+   "release_url": "https://music.amazon.com.au/albums/B073HZBY75",
+   "detected_at": "2026-10-03T04:33:09+00:00"
+  },
   "B073HZFK1L": {
    "artist_id": "B0012F8KAO",
    "artist_name": "Supercell",
@@ -7043,6 +7052,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0BPRLDZLS",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0BPS88QGD": {
+   "artist_id": "B0B1YJ4RN7",
+   "artist_name": "TakoyakiKZY",
+   "release_name": "米と焼飯",
+   "release_type": "Single",
+   "release_date": "2022-12-21",
+   "release_url": "https://music.amazon.com.au/albums/B0BPS88QGD",
+   "detected_at": "2026-10-03T04:33:09+00:00"
   },
   "B0BPS8MV49": {
    "artist_id": "B0BJW6BDJY",
@@ -31649,6 +31667,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0G4DYGYL4",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0G4GFJ5J4": {
+   "artist_id": "B0DJVCB454",
+   "artist_name": "PROTOCOLLON, Ag & goichii",
+   "release_name": "Toes",
+   "release_type": "Single",
+   "release_date": "2025-12-01",
+   "release_url": "https://music.amazon.com.au/albums/B0G4GFJ5J4",
+   "detected_at": "2026-10-03T04:33:09+00:00"
   },
   "B0G4GHYP11": {
    "artist_id": "B0DJVCB454",
