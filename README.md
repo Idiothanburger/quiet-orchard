@@ -24,6 +24,8 @@ Other behavior:
 - **Unavailable artists:** an artist page that answers "Service error" counts as a failed check, never as "no releases".
 - **Failure warning:** if more than 10% of artists fail in a run, or the session can't start, one warning goes to Discord, at most once every 6 hours.
 - **Missing date:** a release whose album page has no date is alerted rather than skipped.
+- **Stuck requests:** each response must arrive within 60 seconds, and scanning stops after 10 minutes (a normal run takes about 3). Artists still unchecked then are retried next run. State is still saved, and the process exits without waiting for a stuck connection.
+- **Featured appearances:** an artist's release list on Amazon only has releases where they're a main artist, so a release where a tracked artist is only featured (for example "Song (feat. Artist)" by someone else) isn't found.
 
 ## Setup
 
@@ -87,6 +89,7 @@ Set these in `.env` locally or under `env:` in `.github/workflows/monitor.yml`.
 | `MAX_PAGES` | `2` | Most pages read per artist when a whole page is new |
 | `FAILURE_WARN_RATIO` | `0.10` | Share of failed artists that triggers a Discord warning |
 | `WARNING_COOLDOWN_HOURS` | `6` | Minimum gap between warnings |
+| `RUN_DEADLINE_SECONDS` | `600` | Stop scanning after this long; unfinished artists are retried next run |
 | `SILENT` | `false` | Record releases as seen but don't post (trial period) |
 | `DRY_RUN` | `false` | Don't post or save |
 | `AMAZON_DOMAIN` | `music.amazon.com.au` | Web player domain |

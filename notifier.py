@@ -18,7 +18,7 @@ Per run:
 from __future__ import annotations
 import argparse
 from collections import Counter
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, wait
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 import logging
@@ -73,6 +73,10 @@ class Config:
         self.max_pages = int(os.getenv("MAX_PAGES", "2"))
         self.failure_warn_ratio = float(os.getenv("FAILURE_WARN_RATIO", "0.10"))
         self.warning_cooldown_hours = float(os.getenv("WARNING_COOLDOWN_HOURS", "6"))
+        # Stop scanning after this long (a normal run takes ~3 min); unfinished artists are retried
+        # next run. Keeps a stuck request from running into the workflow's 15-minute timeout.
+        self.run_deadline_seconds = float(os.getenv("RUN_DEADLINE_SECONDS", "600"))
+        self.deadline_grace_seconds = 30.0
         self.dry_run = _env_bool("DRY_RUN")
         self.silent = _env_bool("SILENT")
         self.log_level = os.getenv("LOG_LEVEL", "INFO").strip().upper()
@@ -134,13 +138,19 @@ class ReleaseTracker:
 
     # ----------------------------------------------------------------- scan
 
-    def scan_artist(self, artist_id: str, force_notify: bool = False) -> ArtistScan:
+    def scan_artist(self, artist_id: str, force_notify: bool = False, deadline: Optional[float] = None) -> ArtistScan:
         """Fetch an artist's newest releases, plus details for unseen ones. Read-only on state."""
         scan = ArtistScan(artist_id)
         known = self.store.is_baselined(artist_id) or force_notify
+
+        def check_deadline() -> None:
+            if deadline is not None and time.monotonic() > deadline:
+                raise AmazonError("run deadline reached; retried next run")
+
         try:
             page_url = ""
             for _page in range(max(1, self.cfg.max_pages)):
+                check_deadline()
                 listed, page_url = self.amazon.artist_releases(artist_id, page_url)
                 page = [Release.from_listing(item, artist_id) for item in listed]
                 scan.releases.extend(page)
@@ -157,6 +167,7 @@ class ReleaseTracker:
             if known:
                 for r in scan.releases:
                     if not self.store.is_seen(r.release_id):
+                        check_deadline()
                         r.apply_album_details(self.amazon.album(r.release_id))
         except AmazonError as e:  # includes ArtistUnavailable and AmazonBlocked
             scan.error = str(e)
@@ -188,8 +199,7 @@ class ReleaseTracker:
         logger.info(f"Scanning {len(targets)} artists ({self.cfg.concurrency} workers, "
                     f"{self.cfg.requests_per_second:g} req/s cap)...")
 
-        with ThreadPoolExecutor(max_workers=max(1, self.cfg.concurrency)) as pool:
-            scans = list(pool.map(lambda a: self.scan_artist(a, force_notify), targets))
+        scans = self._scan_all(targets, force_notify, start + self.cfg.run_deadline_seconds)
 
         summary.artists_checked = len(targets)
         failed = [s for s in scans if s.error]
@@ -215,6 +225,19 @@ class ReleaseTracker:
             + (", BLOCKED by Amazon" if summary.blocked else "")
         )
         return summary
+
+    def _scan_all(self, targets: list[str], force_notify: bool, deadline: float) -> list[ArtistScan]:
+        """Scan in parallel, but never wait past the deadline (plus a grace period for requests
+        already in flight). A scan still running then is reported as failed, and its thread is
+        abandoned rather than joined; main() exits without waiting for it."""
+        pool = ThreadPoolExecutor(max_workers=max(1, self.cfg.concurrency))
+        futures = {pool.submit(self.scan_artist, a, force_notify, deadline): a for a in targets}
+        done, pending = wait(futures, timeout=max(0.0, deadline - time.monotonic()) + self.cfg.deadline_grace_seconds)
+        pool.shutdown(wait=False, cancel_futures=True)
+        if pending:
+            logger.warning(f"Run deadline reached: {len(pending)} artist checks didn't finish")
+        return [f.result() if f in done else ArtistScan(a, error="still running at the run deadline; retried next run")
+                for f, a in futures.items()]
 
     def _process_scans(self, scans: list[ArtistScan], force_notify: bool, summary: RunSummary) -> list[Release]:
         """Baseline new artists, silently cache old releases, and pick the ones to alert."""
@@ -348,4 +371,9 @@ def main(argv: Optional[list[str]] = None) -> int:
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    exit_code = main()
+    # Exit without joining worker threads: a request stuck past the run deadline would
+    # otherwise keep the process alive after state is already saved.
+    sys.stdout.flush()
+    sys.stderr.flush()
+    os._exit(exit_code)

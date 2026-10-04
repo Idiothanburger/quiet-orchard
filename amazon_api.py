@@ -86,11 +86,12 @@ class AlbumDetails:
 
 class AmazonMusicClient:
     def __init__(self, domain: str = "music.amazon.com.au", requests_per_second: float = 2.0,
-                 max_retries: int = 3, timeout: float = 30.0):
+                 max_retries: int = 3, timeout: float = 30.0, read_deadline: float = 60.0):
         self.domain = domain
         self.rate_limiter = RateLimiter(requests_per_second)
         self.max_retries = max_retries
-        self.timeout = timeout
+        self.timeout = timeout              # per socket operation (connect, each read)
+        self.read_deadline = read_deadline  # whole response body
         self.cfg: dict = {}
         self._blocked: Optional[AmazonBlocked] = None
         self._count_lock = threading.Lock()
@@ -136,7 +137,8 @@ class AmazonMusicClient:
             })
             try:
                 with urllib.request.urlopen(req, timeout=self.timeout) as resp:
-                    raw, encoding = resp.read(), resp.headers.get("Content-Encoding")
+                    raw = read_with_deadline(resp, time.monotonic() + self.read_deadline)
+                    encoding = resp.headers.get("Content-Encoding")
             except urllib.error.HTTPError as e:
                 if e.code in (403, 429):
                     self._block(f"HTTP {e.code}")
@@ -235,6 +237,19 @@ class AmazonMusicClient:
     def album(self, album_id: str) -> AlbumDetails:
         template = self._api("showCatalogAlbum", {"id": album_id})["methods"][0].get("template") or {}
         return parse_album(template)
+
+
+def read_with_deadline(resp, deadline: float, clock=time.monotonic) -> bytes:
+    """Read a response body, giving up at `deadline`. The socket timeout alone restarts
+    with every byte received, so a slowly trickling response could otherwise hang a run."""
+    chunks = []
+    while True:
+        if clock() > deadline:
+            raise TimeoutError("response body took too long")
+        chunk = resp.read(65536)
+        if not chunk:
+            return b"".join(chunks)
+        chunks.append(chunk)
 
 
 def parse_album(template: dict) -> AlbumDetails:

@@ -11,6 +11,8 @@ import json
 from pathlib import Path
 import sys
 import tempfile
+import threading
+import time
 import unittest
 from unittest.mock import patch
 import urllib.error
@@ -18,7 +20,7 @@ import urllib.error
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from amazon_api import (AlbumDetails, AmazonBlocked, AmazonError, AmazonMusicClient, ArtistUnavailable,
-                        ListedRelease, parse_album, parse_duration)
+                        ListedRelease, parse_album, parse_duration, read_with_deadline)
 from db import StateStore
 from discord_client import DiscordClient
 from models import (Release, classify_release_type, full_size_artwork, is_recent_release, is_upcoming,
@@ -43,9 +45,12 @@ class FakeAmazon:
     """Serves artist release lists from {artist_id: [rel(...), ...]}, newest first, 20 per page."""
 
     def __init__(self, catalog: dict, fail: set[str] | None = None, explicit: set[str] | None = None,
-                 unavailable: set[str] | None = None, block_after: int | None = None):
+                 unavailable: set[str] | None = None, block_after: int | None = None,
+                 hang: set[str] | None = None, release: threading.Event | None = None):
         self.catalog = catalog
         self.fail = fail or set()
+        self.hang = hang or set()
+        self.release = release  # set by the test to let hung requests finish
         self.unavailable = unavailable or set()
         self.explicit = explicit or set()
         self.block_after = block_after
@@ -67,6 +72,8 @@ class FakeAmazon:
         self._count()
         offset = int(page_url or 0)
         self.list_calls.append((artist_id, offset))
+        if artist_id in self.hang:
+            self.release.wait(10)
         if artist_id in self.fail:
             raise AmazonError("boom")
         if artist_id in self.unavailable:
@@ -323,6 +330,20 @@ class TestTracker(TrackerTestCase):
         tracker.run()
         self.assertEqual(discord.warnings, [])
 
+    def test_stuck_request_does_not_hold_up_the_run(self):
+        release = threading.Event()
+        self.addCleanup(release.set)
+        catalog = {A1: [rel("a", "A", "2020-01-01")], A2: [], A3: [rel("c", "C", "2020-01-01")]}
+        tracker, _, _ = self.make(catalog, [A1, A2, A3], amazon_kw={"hang": {A2}, "release": release},
+                                  run_deadline_seconds=0.3, deadline_grace_seconds=0.2)
+        started = time.monotonic()
+        s = tracker.run()
+        self.assertLess(time.monotonic() - started, 3)
+        self.assertEqual(s.artists_failed, 1)
+        store = StateStore(self.state_path)  # the others were saved
+        self.assertTrue(store.is_baselined(A1) and store.is_baselined(A3))
+        self.assertFalse(store.is_baselined(A2))
+
     def test_block_fails_remaining_artists_and_flags_run(self):
         artists = [A1, A2, A3]
         tracker, _, discord = self.make({}, artists, amazon_kw={"block_after": 1}, concurrency=1)
@@ -434,6 +455,13 @@ class TestAmazonClient(unittest.TestCase):
         inner = json.loads(body["headers"])
         self.assertEqual(inner["x-amzn-session-id"], "s")
         self.assertIn(A1, captured[1].full_url)
+
+    def test_slow_body_hits_read_deadline(self):
+        ticks = iter(range(100))
+        slow = io.BytesIO(b"x" * 300_000)  # five 64 KB chunks, one clock tick each
+        with self.assertRaises(TimeoutError):
+            read_with_deadline(slow, deadline=3, clock=lambda: next(ticks))
+        self.assertEqual(read_with_deadline(io.BytesIO(b"ok"), deadline=3, clock=lambda: 0), b"ok")
 
     def test_parse_album(self):
         ld = {"@type": "MusicAlbum", "name": "#Love", "byArtist": {"name": "Supercell"},
