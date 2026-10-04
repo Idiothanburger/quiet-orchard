@@ -100,6 +100,9 @@ class FakeDiscord:
         self.sent: list[Release] = []
         self.warnings: list[str] = []
 
+    def is_configured(self):
+        return True
+
     def send_release_notification(self, release):
         self.sent.append(release)
         return self.ok

@@ -32,8 +32,8 @@ jobs:
           STATE_PATH: seen_releases.json
           CONCURRENCY: '2'
           REQUESTS_PER_SECOND: '2'
-          # Trial period: scan and record releases, but post nothing. Set to 'false' to go live.
-          SILENT: 'true'
+          # 'true' = scan and record releases but post nothing (used for the trial period).
+          SILENT: 'false'
           LOG_LEVEL: INFO
         run: python3 -u notifier.py
 

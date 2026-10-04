@@ -196,8 +196,10 @@ class ReleaseTracker:
             self._save()
             return summary
 
+        mode = "dry run" if self.cfg.dry_run else "silent" if self.cfg.silent else \
+            "live" if self.discord.is_configured() else "live, but DISCORD_WEBHOOK_URL is NOT set"
         logger.info(f"Scanning {len(targets)} artists ({self.cfg.concurrency} workers, "
-                    f"{self.cfg.requests_per_second:g} req/s cap)...")
+                    f"{self.cfg.requests_per_second:g} req/s cap, {mode})...")
 
         scans = self._scan_all(targets, force_notify, start + self.cfg.run_deadline_seconds)
 
