@@ -4492,6 +4492,15 @@
    "release_url": "https://music.amazon.com.au/albums/B09VP1GRPW",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B09VP27HDG": {
+   "artist_id": "B096Y6VTK7",
+   "artist_name": "LonePi",
+   "release_name": "Wagamama Recall",
+   "release_type": "Single",
+   "release_date": "2022-03-23",
+   "release_url": "https://music.amazon.com.au/albums/B09VP27HDG",
+   "detected_at": "2026-10-04T04:33:10+00:00"
+  },
   "B09VP3Q8VD": {
    "artist_id": "B096Y6VTK7",
    "artist_name": "LonePi",
@@ -4500,6 +4509,15 @@
    "release_date": "2022-03-23",
    "release_url": "https://music.amazon.com.au/albums/B09VP3Q8VD",
    "detected_at": "2026-10-03T07:33:07+00:00"
+  },
+  "B09VP5B1PF": {
+   "artist_id": "B096Y6VTK7",
+   "artist_name": "LonePi",
+   "release_name": "Please,invaders",
+   "release_type": "Single",
+   "release_date": "2022-03-23",
+   "release_url": "https://music.amazon.com.au/albums/B09VP5B1PF",
+   "detected_at": "2026-10-04T04:33:10+00:00"
   },
   "B09VPHB4NR": {
    "artist_id": "B00LL4B9PE",
