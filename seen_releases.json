@@ -4510,6 +4510,15 @@
    "release_url": "https://music.amazon.com.au/albums/B09VP3Q8VD",
    "detected_at": "2026-10-03T07:33:07+00:00"
   },
+  "B09VP4T9XJ": {
+   "artist_id": "B096Y6VTK7",
+   "artist_name": "LonePi",
+   "release_name": "Predilection Zombie",
+   "release_type": "Single",
+   "release_date": "2022-03-23",
+   "release_url": "https://music.amazon.com.au/albums/B09VP4T9XJ",
+   "detected_at": "2026-10-04T11:33:09+00:00"
+  },
   "B09VP5B1PF": {
    "artist_id": "B096Y6VTK7",
    "artist_name": "LonePi",
@@ -7155,6 +7164,15 @@
    "release_date": "2022-12-21",
    "release_url": "https://music.amazon.com.au/albums/B0BPS93LPY",
    "detected_at": "2026-10-03T20:33:10+00:00"
+  },
+  "B0BPS95Q2B": {
+   "artist_id": "B0B1YJ4RN7",
+   "artist_name": "TakoyakiKZY",
+   "release_name": "アンダーメモリー",
+   "release_type": "Single",
+   "release_date": "2022-12-21",
+   "release_url": "https://music.amazon.com.au/albums/B0BPS95Q2B",
+   "detected_at": "2026-10-04T11:33:09+00:00"
   },
   "B0BPS9J8D9": {
    "artist_id": "B0BJW6BDJY",
