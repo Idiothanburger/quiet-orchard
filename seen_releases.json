@@ -7174,6 +7174,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0BPSBCD5M",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0BPSBK3TW": {
+   "artist_id": "B0B1YJ4RN7",
+   "artist_name": "TakoyakiKZY",
+   "release_name": "例夏",
+   "release_type": "Single",
+   "release_date": "2022-12-21",
+   "release_url": "https://music.amazon.com.au/albums/B0BPSBK3TW",
+   "detected_at": "2026-10-04T03:33:08+00:00"
+  },
   "B0BPSC5QH6": {
    "artist_id": "B0B1YJ4RN7",
    "artist_name": "TakoyakiKZY",
@@ -17631,6 +17640,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DFLG8KDS",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DFM4G27Y": {
+   "artist_id": "B08QJCXQT5",
+   "artist_name": "Myuk",
+   "release_name": "Arcana (Eureka version)",
+   "release_type": "Single",
+   "release_date": "2024-01-10",
+   "release_url": "https://music.amazon.com.au/albums/B0DFM4G27Y",
+   "detected_at": "2026-10-04T03:33:08+00:00"
   },
   "B0DFMDVK7B": {
    "artist_id": "B085C5Q9PP",
