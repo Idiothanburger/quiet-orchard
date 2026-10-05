@@ -43624,6 +43624,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HKVQ55Y9",
    "detected_at": "2026-10-03T14:03:17+00:00"
   },
+  "B0HKW6SK4K": {
+   "artist_id": "B002XJOU20",
+   "artist_name": "Camellia, Taiko no Tatsujin & Bandai Namco Game Music [feat. Ume Hanami]",
+   "release_name": "Don-doko🥁Don-doko🥁Don-doko🥁Don-doko🥁Don-tastic!!!",
+   "release_type": "Single",
+   "release_date": "2026-10-06",
+   "release_url": "https://music.amazon.com.au/albums/B0HKW6SK4K",
+   "detected_at": "2026-10-05T13:03:21+00:00"
+  },
   "B0HKWB134R": {
    "artist_id": "B0876LTRD1",
    "artist_name": "THREEE",
@@ -43938,6 +43947,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0HLV8VM3P",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0HLXL4PB2": {
+   "artist_id": "B079NL1B8X",
+   "artist_name": "Ci-chan, Kirito Sugiura & Nakuru Aitsuki",
+   "release_name": "I wanna kie",
+   "release_type": "Single",
+   "release_date": "2026-10-06",
+   "release_url": "https://music.amazon.com.au/albums/B0HLXL4PB2",
+   "detected_at": "2026-10-05T13:03:21+00:00"
   }
  },
  "meta": {
