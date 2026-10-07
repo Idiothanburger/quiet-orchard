@@ -7228,6 +7228,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0BPS9J8D9",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0BPSB2DLM": {
+   "artist_id": "B0B1YJ4RN7",
+   "artist_name": "TakoyakiKZY",
+   "release_name": "ミッシェル",
+   "release_type": "Single",
+   "release_date": "2022-12-21",
+   "release_url": "https://music.amazon.com.au/albums/B0BPSB2DLM",
+   "detected_at": "2026-10-07T04:03:20+00:00"
+  },
   "B0BPSB83CF": {
    "artist_id": "B0B1YJ4RN7",
    "artist_name": "TakoyakiKZY",
@@ -31941,6 +31950,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0G4DYGYL4",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0G4GD7DVL": {
+   "artist_id": "B0DJVCB454",
+   "artist_name": "PROTOCOLLON & Miyano Gento [feat. Muto]",
+   "release_name": "LIGHT (feat. muto)",
+   "release_type": "Single",
+   "release_date": "2025-12-01",
+   "release_url": "https://music.amazon.com.au/albums/B0G4GD7DVL",
+   "detected_at": "2026-10-07T04:03:20+00:00"
   },
   "B0G4GFJ5J4": {
    "artist_id": "B0DJVCB454",
