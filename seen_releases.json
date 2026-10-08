@@ -43471,6 +43471,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HJZYSP7J",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HJZZ24D2": {
+   "artist_id": "B07FDC2PTM",
+   "artist_name": "Kizuna AI",
+   "release_name": "Monster Factory",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HJZZ24D2",
+   "detected_at": "2026-10-08T13:03:27+00:00"
+  },
   "B0HJZZ6M8F": {
    "artist_id": "B07BB3QDF6",
    "artist_name": "BOURYOKUTEKINIKAWAII, Neko Hacker & wotoha",
@@ -43713,6 +43722,15 @@
    "release_date": "2026-10-07",
    "release_url": "https://music.amazon.com.au/albums/B0HKVBBHXR",
    "detected_at": "2026-10-06T13:03:33+00:00"
+  },
+  "B0HKVFHJLC": {
+   "artist_id": "B09JKS9Z2Z",
+   "artist_name": "Narase",
+   "release_name": "終末雨模様",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HKVFHJLC",
+   "detected_at": "2026-10-08T13:03:27+00:00"
   },
   "B0HKVQ55Y9": {
    "artist_id": "B0FF4K516T",
@@ -43993,6 +44011,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HLD2RGNL",
    "detected_at": "2026-10-04T13:03:17+00:00"
   },
+  "B0HLFW4FDR": {
+   "artist_id": "B006WV7N2O",
+   "artist_name": "Yuika",
+   "release_name": "Kawaikunai",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HLFW4FDR",
+   "detected_at": "2026-10-08T13:03:27+00:00"
+  },
   "B0HLFWJ3XJ": {
    "artist_id": "B0D6HJZM97",
    "artist_name": "Wuthering Waves",
@@ -44010,6 +44037,15 @@
    "release_date": "2026-10-07",
    "release_url": "https://music.amazon.com.au/albums/B0HLJQX1T5",
    "detected_at": "2026-10-06T13:03:31+00:00"
+  },
+  "B0HLK5KKS5": {
+   "artist_id": "B0038QOFE0",
+   "artist_name": "Boom Boom Satellites & TeddyLoid",
+   "release_name": "KICK IT OUT -TeddyLoid remix",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HLK5KKS5",
+   "detected_at": "2026-10-08T13:03:26+00:00"
   },
   "B0HLKWJZXZ": {
    "artist_id": "B000RQRPM8",
@@ -44137,6 +44173,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HLV8VM3P",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HLXGPZKN": {
+   "artist_id": "B00V07MXZC",
+   "artist_name": "Synthion",
+   "release_name": "flow",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HLXGPZKN",
+   "detected_at": "2026-10-08T13:03:27+00:00"
+  },
   "B0HLXL4PB2": {
    "artist_id": "B079NL1B8X",
    "artist_name": "Ci-chan, Kirito Sugiura & Nakuru Aitsuki",
@@ -44163,6 +44208,15 @@
    "release_date": "2026-10-07",
    "release_url": "https://music.amazon.com.au/albums/B0HM31BRRH",
    "detected_at": "2026-10-06T13:03:30+00:00"
+  },
+  "B0HM35BV97": {
+   "artist_id": "B00585N6HQ",
+   "artist_name": "kinoshita",
+   "release_name": "Glory Steady Go! (t+pazolite Remix)",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HM35BV97",
+   "detected_at": "2026-10-08T13:03:27+00:00"
   }
  },
  "meta": {
