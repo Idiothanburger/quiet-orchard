@@ -43813,6 +43813,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HKWTM1K2",
    "detected_at": "2026-10-06T13:03:33+00:00"
   },
+  "B0HKWTVBDH": {
+   "artist_id": "B00E32WW5M",
+   "artist_name": "Spyair",
+   "release_name": "Wadachi - New Version -",
+   "release_type": "EP",
+   "release_date": "2026-10-10",
+   "release_url": "https://music.amazon.com.au/albums/B0HKWTVBDH",
+   "detected_at": "2026-10-09T13:03:25+00:00"
+  },
   "B0HKZ2T9SR": {
    "artist_id": "B004H0KVA8",
    "artist_name": "nayuta",
@@ -44020,6 +44029,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HLD2RGNL",
    "detected_at": "2026-10-04T13:03:17+00:00"
   },
+  "B0HLD9Z9BN": {
+   "artist_id": "B09978VB19",
+   "artist_name": "nyamura",
+   "release_name": "Princess of Darkness (Bonus Track)",
+   "release_type": "Single",
+   "release_date": "2026-07-26",
+   "release_url": "https://music.amazon.com.au/albums/B0HLD9Z9BN",
+   "detected_at": "2026-10-09T13:03:25+00:00"
+  },
   "B0HLFW4FDR": {
    "artist_id": "B006WV7N2O",
    "artist_name": "Yuika",
@@ -44226,6 +44244,24 @@
    "release_date": "2026-10-09",
    "release_url": "https://music.amazon.com.au/albums/B0HM35BV97",
    "detected_at": "2026-10-08T13:03:27+00:00"
+  },
+  "B0HM3TBGX3": {
+   "artist_id": "B0C7MSFG66",
+   "artist_name": "Yomitan Akane",
+   "release_name": "WATCHNEW",
+   "release_type": "Single",
+   "release_date": "2026-10-10",
+   "release_url": "https://music.amazon.com.au/albums/B0HM3TBGX3",
+   "detected_at": "2026-10-09T13:03:25+00:00"
+  },
+  "B0HMFKW6N2": {
+   "artist_id": "B0C2BM1KX2",
+   "artist_name": "HoYoFair",
+   "release_name": "Genshin Impact HoYoFair 2026 \"Project: Nord Express\"",
+   "release_type": "Album",
+   "release_date": "2026-10-10",
+   "release_url": "https://music.amazon.com.au/albums/B0HMFKW6N2",
+   "detected_at": "2026-10-09T13:03:25+00:00"
   }
  },
  "meta": {
