@@ -44280,6 +44280,15 @@
    "release_date": "2026-10-10",
    "release_url": "https://music.amazon.com.au/albums/B0HMFKW6N2",
    "detected_at": "2026-10-09T13:03:25+00:00"
+  },
+  "B0HMKRYLPW": {
+   "artist_id": "B0D7M4TBTN",
+   "artist_name": "tug",
+   "release_name": "saint",
+   "release_type": "Single",
+   "release_date": "2026-10-10",
+   "release_url": "https://music.amazon.com.au/albums/B0HMKRYLPW",
+   "detected_at": "2026-10-10T07:33:08+00:00"
   }
  },
  "meta": {
