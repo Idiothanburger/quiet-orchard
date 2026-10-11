@@ -44307,6 +44307,15 @@
    "release_date": "2026-10-11",
    "release_url": "https://music.amazon.com.au/albums/B0HMMY8LGC",
    "detected_at": "2026-10-11T03:33:08+00:00"
+  },
+  "B0HMNR21FB": {
+   "artist_id": "B09RZSWL98",
+   "artist_name": "namigroove",
+   "release_name": "CharmingHappyStar",
+   "release_type": "Single",
+   "release_date": "2026-10-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HMNR21FB",
+   "detected_at": "2026-10-11T07:33:09+00:00"
   }
  },
  "meta": {
