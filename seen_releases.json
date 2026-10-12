@@ -44308,6 +44308,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HM3TBGX3",
    "detected_at": "2026-10-09T13:03:25+00:00"
   },
+  "B0HM7R1T4F": {
+   "artist_id": "B0CPY1YFQC",
+   "artist_name": "Otonose Kanade",
+   "release_name": "Aishikake",
+   "release_type": "Single",
+   "release_date": "2026-10-13",
+   "release_url": "https://music.amazon.com.au/albums/B0HM7R1T4F",
+   "detected_at": "2026-10-12T15:03:24+00:00"
+  },
   "B0HMFKW6N2": {
    "artist_id": "B0C2BM1KX2",
    "artist_name": "HoYoFair",
@@ -44361,6 +44370,15 @@
    "release_date": "2026-10-12",
    "release_url": "https://music.amazon.com.au/albums/B0HMRVXP6Z",
    "detected_at": "2026-10-12T13:33:12+00:00"
+  },
+  "B0HMS9GWW3": {
+   "artist_id": "B07LH5B3G1",
+   "artist_name": "HOYO-MiX",
+   "release_name": "Genshin Impact - A Letter From the Wind (Genshin Impact 6th Anniversary Theme Song)",
+   "release_type": "EP",
+   "release_date": "2026-09-29",
+   "release_url": "https://music.amazon.com.au/albums/B0HMS9GWW3",
+   "detected_at": "2026-10-12T15:03:24+00:00"
   }
  },
  "meta": {
