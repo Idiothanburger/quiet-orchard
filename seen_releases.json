@@ -44352,6 +44352,15 @@
    "release_date": "2026-10-11",
    "release_url": "https://music.amazon.com.au/albums/B0HMNR21FB",
    "detected_at": "2026-10-11T07:33:09+00:00"
+  },
+  "B0HMRVXP6Z": {
+   "artist_id": "B000RQRPM8",
+   "artist_name": "MIMI [feat. Isekai Joucho]",
+   "release_name": "Name of the Wind (feat. Isekai Joucho)",
+   "release_type": "Single",
+   "release_date": "2026-10-12",
+   "release_url": "https://music.amazon.com.au/albums/B0HMRVXP6Z",
+   "detected_at": "2026-10-12T13:33:12+00:00"
   }
  },
  "meta": {
