@@ -44379,6 +44379,15 @@
    "release_date": "2026-09-29",
    "release_url": "https://music.amazon.com.au/albums/B0HMS9GWW3",
    "detected_at": "2026-10-12T15:03:24+00:00"
+  },
+  "B0HMTHKVQ2": {
+   "artist_id": "B0C2BM1KX2",
+   "artist_name": "HoYoFair",
+   "release_name": "Zenless Zone Zero HoYoFair \"Random Play 2nd Anniversary\"",
+   "release_type": "Album",
+   "release_date": "2026-09-21",
+   "release_url": "https://music.amazon.com.au/albums/B0HMTHKVQ2",
+   "detected_at": "2026-10-12T21:33:10+00:00"
   }
  },
  "meta": {
