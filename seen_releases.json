@@ -44407,6 +44407,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HM35BV97",
    "detected_at": "2026-10-08T13:03:27+00:00"
   },
+  "B0HM3BTTNZ": {
+   "artist_id": "B0010RVN6C",
+   "artist_name": "Ado",
+   "release_name": "Raven Sky",
+   "release_type": "Single",
+   "release_date": "2026-10-15",
+   "release_url": "https://music.amazon.com.au/albums/B0HM3BTTNZ",
+   "detected_at": "2026-10-15T15:03:25+00:00"
+  },
   "B0HM3TBGX3": {
    "artist_id": "B0C7MSFG66",
    "artist_name": "Yomitan Akane",
@@ -44559,6 +44568,15 @@
    "release_date": "2026-10-16",
    "release_url": "https://music.amazon.com.au/albums/B0HMWZM958",
    "detected_at": "2026-10-15T13:03:25+00:00"
+  },
+  "B0HN1NC255": {
+   "artist_id": "B07XN5JP9W",
+   "artist_name": "hololive IDOL PROJECT",
+   "release_name": "PARADISE！",
+   "release_type": "Single",
+   "release_date": "2026-10-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HN1NC255",
+   "detected_at": "2026-10-15T15:03:26+00:00"
   },
   "B0HN21Y5RW": {
    "artist_id": "B07L2WLZHN",
