@@ -44635,6 +44635,15 @@
    "release_date": "2026-10-14",
    "release_url": "https://music.amazon.com.au/albums/B0HN2BV2K1",
    "detected_at": "2026-10-14T12:03:23+00:00"
+  },
+  "B0HN873SX8": {
+   "artist_id": "B083RWV5G2",
+   "artist_name": "Iyowa",
+   "release_name": "Last Rally",
+   "release_type": "Single",
+   "release_date": "2026-10-17",
+   "release_url": "https://music.amazon.com.au/albums/B0HN873SX8",
+   "detected_at": "2026-10-16T16:03:24+00:00"
   }
  },
  "meta": {
