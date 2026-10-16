@@ -1117,6 +1117,10 @@
    "name": "Milky & PROTOCOLLON",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DLGLFQNB": {
+   "name": "awamizm, Somaru & anyu",
+   "baselined_at": "2026-10-16T10:33:13+00:00"
+  },
   "B0DLPHFWQY": {
    "name": "Ozon",
    "baselined_at": "2026-10-03T03:54:15+00:00"
@@ -19305,6 +19309,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DLGLNSK7",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DLGNVQ21": {
+   "artist_id": "B0DLGLFQNB",
+   "artist_name": "awamizm, Somaru & anyu",
+   "release_name": "Milky Dawn",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DLGNVQ21",
+   "detected_at": "2026-10-16T10:33:13+00:00"
   },
   "B0DLGYKGTV": {
    "artist_id": "B07F68T1T6",
@@ -44352,6 +44365,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0HLV8VM3P",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0HLXGL2YL": {
+   "artist_id": "B0DLGLFQNB",
+   "artist_name": "awamizm, Somaru & anyu",
+   "release_name": "Niji no hate made",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HLXGL2YL",
+   "detected_at": "2026-10-16T10:33:13+00:00"
   },
   "B0HLXGPZKN": {
    "artist_id": "B00V07MXZC",
