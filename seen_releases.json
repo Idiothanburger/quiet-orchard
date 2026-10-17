@@ -44644,6 +44644,24 @@
    "release_date": "2026-10-17",
    "release_url": "https://music.amazon.com.au/albums/B0HN873SX8",
    "detected_at": "2026-10-16T16:03:24+00:00"
+  },
+  "B0HN8FVJSN": {
+   "artist_id": "B083RWV5G2",
+   "artist_name": "Iyowa",
+   "release_name": "Syzygy",
+   "release_type": "Single",
+   "release_date": "2026-10-18",
+   "release_url": "https://music.amazon.com.au/albums/B0HN8FVJSN",
+   "detected_at": "2026-10-17T13:03:20+00:00"
+  },
+  "B0HND8D74N": {
+   "artist_id": "B09797QMG9",
+   "artist_name": "¿?shimon",
+   "release_name": "****Me",
+   "release_type": "Single",
+   "release_date": "2026-10-18",
+   "release_url": "https://music.amazon.com.au/albums/B0HND8D74N",
+   "detected_at": "2026-10-17T13:03:20+00:00"
   }
  },
  "meta": {
