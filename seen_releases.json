@@ -297,6 +297,10 @@
    "name": "Endorfin.",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B01LQQN1XY": {
+   "name": "Suzushiro",
+   "baselined_at": "2026-10-18T11:03:18+00:00"
+  },
   "B01LXPJE4W": {
    "name": "Reol",
    "baselined_at": "2026-10-03T03:54:15+00:00"
@@ -3551,6 +3555,24 @@
    "release_url": "https://music.amazon.com.au/albums/B09HC2TD4H",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B09HDG2RHQ": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Merry Sugar Days",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B09HDG2RHQ",
+   "detected_at": "2026-10-18T11:03:18+00:00"
+  },
+  "B09HDS4Z6D": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Sugar Planetarium",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B09HDS4Z6D",
+   "detected_at": "2026-10-18T11:03:18+00:00"
+  },
   "B09HDT161R": {
    "artist_id": "B003U3JA0K",
    "artist_name": "EasyPop",
@@ -3622,6 +3644,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B09HZPQ669",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B09J19J6CX": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Melty Cream Soda",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B09J19J6CX",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B09J4KQL95": {
    "artist_id": "B000QKC5QQ",
@@ -3910,6 +3941,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B09MKPDG1H",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B09MLTD2GT": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Mugcup Diary",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B09MLTD2GT",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B09MM1KJVK": {
    "artist_id": "B0899LV1B6",
@@ -4369,6 +4409,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B09V13992G",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B09V2X4J8J": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Purely Monologue",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B09V2X4J8J",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B09V71FF8K": {
    "artist_id": "B0081398RY",
@@ -6097,6 +6146,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0BG845NLP",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0BGC66JDM": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Milky Memories",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0BGC66JDM",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B0BGHMHLGS": {
    "artist_id": "B08MFFC9WN",
@@ -9203,6 +9261,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0C4X3CZJ1",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0C5F13C84": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Kataomoi Holic",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0C5F13C84",
+   "detected_at": "2026-10-18T11:03:18+00:00"
+  },
   "B0C5H5NL4H": {
    "artist_id": "B07FFN5CMS",
    "artist_name": "WADATAKEAKI",
@@ -12181,6 +12248,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0CNWXYRSZ",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0CNXLJFMT": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Colorful Happy Days!",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0CNXLJFMT",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B0CNXR2R5K": {
    "artist_id": "B0BB1P1P8L",
@@ -23305,6 +23381,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0F2YPKBB3",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0F2YVR1LG": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Secret Password",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0F2YVR1LG",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B0F2YVX7Z6": {
    "artist_id": "B0821MVFBX",
@@ -39434,6 +39519,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0H5J3TVSW",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0H5JDGBFM": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Doriimin Chuchu (Cover)",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0H5JDGBFM",
+   "detected_at": "2026-10-18T11:03:18+00:00"
+  },
   "B0H5KH6LQY": {
    "artist_id": "B0D6HJZM97",
    "artist_name": "Wuthering Waves",
@@ -44554,6 +44648,15 @@
    "release_date": "2026-10-11",
    "release_url": "https://music.amazon.com.au/albums/B0HMMY8LGC",
    "detected_at": "2026-10-11T03:33:08+00:00"
+  },
+  "B0HMN7XR5L": {
+   "artist_id": "B01LQQN1XY",
+   "artist_name": "Suzushiro",
+   "release_name": "Merry Mellow",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HMN7XR5L",
+   "detected_at": "2026-10-18T11:03:18+00:00"
   },
   "B0HMNBC4WM": {
    "artist_id": "B000QKKT0U",
