@@ -44783,6 +44783,15 @@
    "release_date": "2026-10-14",
    "release_url": "https://music.amazon.com.au/albums/B0HNK3TRXB",
    "detected_at": "2026-10-19T09:03:22+00:00"
+  },
+  "B0HNKGKZR9": {
+   "artist_id": "B0074ZC6BU",
+   "artist_name": "sakuzyo",
+   "release_name": "Cold Sea",
+   "release_type": "Single",
+   "release_date": "2026-10-19",
+   "release_url": "https://music.amazon.com.au/albums/B0HNKGKZR9",
+   "detected_at": "2026-10-19T12:03:25+00:00"
   }
  },
  "meta": {
