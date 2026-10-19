@@ -1480,6 +1480,15 @@
    "release_url": "https://music.amazon.com.au/albums/B073JWKDMC",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B073NDSP2K": {
+   "artist_id": "B00G2CE8SU",
+   "artist_name": "MARETU",
+   "release_name": "White Happy",
+   "release_type": "Single",
+   "release_date": "2017-07-02",
+   "release_url": "https://music.amazon.com.au/albums/B073NDSP2K",
+   "detected_at": "2026-10-19T16:33:12+00:00"
+  },
   "B0754ZSNSG": {
    "artist_id": "B00G2CE8SU",
    "artist_name": "MARETU",
