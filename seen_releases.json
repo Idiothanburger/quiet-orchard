@@ -45273,6 +45273,15 @@
    "release_date": "2026-10-21",
    "release_url": "https://music.amazon.com.au/albums/B0HNTDMF92",
    "detected_at": "2026-10-21T14:03:24+00:00"
+  },
+  "B0HNXPTP89": {
+   "artist_id": "B09H2NN89J",
+   "artist_name": "purini & RivoStudio",
+   "release_name": "No Tengo Visa",
+   "release_type": "Single",
+   "release_date": "2026-09-07",
+   "release_url": "https://music.amazon.com.au/albums/B0HNXPTP89",
+   "detected_at": "2026-10-22T21:03:24+00:00"
   }
  },
  "meta": {
