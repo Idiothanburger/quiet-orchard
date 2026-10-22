@@ -266,7 +266,7 @@
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B00S8GE5H2": {
-   "name": "RiraN [feat. Negoto Bunnyla]",
+   "name": "RiraN [feat. 音琴兎愛]",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B00V07MXZC": {
@@ -44311,6 +44311,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HL227JKS",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HL25DX9D": {
+   "artist_id": "B00S8GE5H2",
+   "artist_name": "RiraN & NotThatRecords",
+   "release_name": "Good Time",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HL25DX9D",
+   "detected_at": "2026-10-22T13:03:38+00:00"
+  },
   "B0HL4G9HH5": {
    "artist_id": "B09BHY7W6L",
    "artist_name": "kurousagi",
@@ -44752,6 +44761,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HLYT8NWH",
    "detected_at": "2026-10-20T13:03:30+00:00"
   },
+  "B0HLZ77CZW": {
+   "artist_id": "B003RRA7EW",
+   "artist_name": "Wisperwave, De De Mouse & Lonely Girl",
+   "release_name": "Waltz for the ice cubes",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HLZ77CZW",
+   "detected_at": "2026-10-22T13:03:38+00:00"
+  },
   "B0HM1N9RL3": {
    "artist_id": "B0927XKSF9",
    "artist_name": "Balloon",
@@ -44868,6 +44886,24 @@
    "release_date": "2026-10-21",
    "release_url": "https://music.amazon.com.au/albums/B0HMCJGNSD",
    "detected_at": "2026-10-20T13:03:30+00:00"
+  },
+  "B0HMCK3XQJ": {
+   "artist_id": "B08BWL5SMW",
+   "artist_name": "Tomori Kusunoki",
+   "release_name": "Tomori Kusunoki Acoustic Live \"LESS is MORE\" in Studio",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HMCK3XQJ",
+   "detected_at": "2026-10-22T13:03:38+00:00"
+  },
+  "B0HMCRC1M1": {
+   "artist_id": "B000RQRPM8",
+   "artist_name": "MIMI",
+   "release_name": "光と誘惑",
+   "release_type": "EP",
+   "release_date": "2026-10-09",
+   "release_url": "https://music.amazon.com.au/albums/B0HMCRC1M1",
+   "detected_at": "2026-10-22T13:03:34+00:00"
   },
   "B0HMFKW6N2": {
    "artist_id": "B0C2BM1KX2",
@@ -45022,6 +45058,24 @@
    "release_url": "https://music.amazon.com.au/albums/B0HN2BV2K1",
    "detected_at": "2026-10-14T12:03:23+00:00"
   },
+  "B0HN3VL2JF": {
+   "artist_id": "B00JQ8XKSQ",
+   "artist_name": "marasy [feat. Hatsune Miku]",
+   "release_name": "Kaien",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HN3VL2JF",
+   "detected_at": "2026-10-22T13:03:35+00:00"
+  },
+  "B0HN4356GN": {
+   "artist_id": "B09FY8TZGZ",
+   "artist_name": "UshioReira",
+   "release_name": "if...",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HN4356GN",
+   "detected_at": "2026-10-22T13:03:38+00:00"
+  },
   "B0HN45W3ML": {
    "artist_id": "B006I0I7FQ",
    "artist_name": "t+pazolite & DJ Myosuke",
@@ -45049,6 +45103,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HN73PS7W",
    "detected_at": "2026-10-20T13:03:28+00:00"
   },
+  "B0HN74L8TS": {
+   "artist_id": "B00JQ8XKSQ",
+   "artist_name": "marasy [feat. KAITO & Meiko]",
+   "release_name": "Kaien another ver.",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HN74L8TS",
+   "detected_at": "2026-10-22T13:03:35+00:00"
+  },
   "B0HN873SX8": {
    "artist_id": "B083RWV5G2",
    "artist_name": "Iyowa",
@@ -45057,6 +45120,15 @@
    "release_date": "2026-10-17",
    "release_url": "https://music.amazon.com.au/albums/B0HN873SX8",
    "detected_at": "2026-10-16T16:03:24+00:00"
+  },
+  "B0HN88MBTQ": {
+   "artist_id": "B09H2NN89J",
+   "artist_name": "DENONBU, purini & Mi7s3",
+   "release_name": "Silent pulse",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HN88MBTQ",
+   "detected_at": "2026-10-22T13:03:35+00:00"
   },
   "B0HN8FVJSN": {
    "artist_id": "B083RWV5G2",
@@ -45094,6 +45166,33 @@
    "release_url": "https://music.amazon.com.au/albums/B0HNJ98D6H",
    "detected_at": "2026-10-21T13:03:28+00:00"
   },
+  "B0HNJJ5Z5T": {
+   "artist_id": "B0CQ8L5DFK",
+   "artist_name": "ど～ぱみん",
+   "release_name": "違うって言ってんじゃん！",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HNJJ5Z5T",
+   "detected_at": "2026-10-22T13:03:38+00:00"
+  },
+  "B0HNJKF3Z7": {
+   "artist_id": "B09H2NN89J",
+   "artist_name": "Reno, Picco, purini & Mi7s3",
+   "release_name": "flip-flop",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HNJKF3Z7",
+   "detected_at": "2026-10-22T13:03:36+00:00"
+  },
+  "B0HNJPW5BN": {
+   "artist_id": "B09B181RMX",
+   "artist_name": "Nakiso & 威戸れもね。",
+   "release_name": "In The Womb",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HNJPW5BN",
+   "detected_at": "2026-10-22T13:03:35+00:00"
+  },
   "B0HNK3TRXB": {
    "artist_id": "B08P7LLY6Z",
    "artist_name": "Garlt, Lomz & Mori Calliope",
@@ -45111,6 +45210,15 @@
    "release_date": "2026-10-19",
    "release_url": "https://music.amazon.com.au/albums/B0HNKGKZR9",
    "detected_at": "2026-10-19T12:03:25+00:00"
+  },
+  "B0HNMQCCRL": {
+   "artist_id": "B00COGH1TG",
+   "artist_name": "ryo(supercell) [feat. Hatsune Miku]",
+   "release_name": "LEGENDS",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HNMQCCRL",
+   "detected_at": "2026-10-22T13:03:38+00:00"
   },
   "B0HNNHV684": {
    "artist_id": "B07LH5B3G1",
@@ -45138,6 +45246,15 @@
    "release_date": "2026-10-21",
    "release_url": "https://music.amazon.com.au/albums/B0HNRJV3C1",
    "detected_at": "2026-10-21T04:03:21+00:00"
+  },
+  "B0HNSF5VP6": {
+   "artist_id": "B01CQFU6QY",
+   "artist_name": "DYES IWASAKI",
+   "release_name": "ZIGI",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HNSF5VP6",
+   "detected_at": "2026-10-22T13:03:35+00:00"
   },
   "B0HNT62R85": {
    "artist_id": "B0GXC75R2M",
