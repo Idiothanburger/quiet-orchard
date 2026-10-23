@@ -45300,6 +45300,15 @@
    "release_date": "2026-09-07",
    "release_url": "https://music.amazon.com.au/albums/B0HNXPTP89",
    "detected_at": "2026-10-22T21:03:24+00:00"
+  },
+  "B0HP1B5WHL": {
+   "artist_id": "B000QKKT0U",
+   "artist_name": "Choko",
+   "release_name": "SCOREBOARD",
+   "release_type": "Single",
+   "release_date": "2026-10-23",
+   "release_url": "https://music.amazon.com.au/albums/B0HP1B5WHL",
+   "detected_at": "2026-10-23T07:03:21+00:00"
   }
  },
  "meta": {
