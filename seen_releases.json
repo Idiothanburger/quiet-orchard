@@ -45319,6 +45319,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HNSF5VP6",
    "detected_at": "2026-10-22T13:03:35+00:00"
   },
+  "B0HNSZLWBX": {
+   "artist_id": "B0010RVN6C",
+   "artist_name": "Ado",
+   "release_name": "Patient A",
+   "release_type": "Single",
+   "release_date": "2026-10-24",
+   "release_url": "https://music.amazon.com.au/albums/B0HNSZLWBX",
+   "detected_at": "2026-10-24T11:03:21+00:00"
+  },
   "B0HNT62R85": {
    "artist_id": "B0GXC75R2M",
    "artist_name": "NTE10AM",
