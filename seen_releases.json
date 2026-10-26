@@ -45462,6 +45462,15 @@
    "release_date": "2026-10-24",
    "release_url": "https://music.amazon.com.au/albums/B0HP72R2M8",
    "detected_at": "2026-10-25T00:03:22+00:00"
+  },
+  "B0HPBBSZF7": {
+   "artist_id": "B07LH5B3G1",
+   "artist_name": "Robin, HOYO-MiX & Chevy",
+   "release_name": "Only by Chasing the Wind",
+   "release_type": "Single",
+   "release_date": "2026-08-26",
+   "release_url": "https://music.amazon.com.au/albums/B0HPBBSZF7",
+   "detected_at": "2026-10-26T10:03:24+00:00"
   }
  },
  "meta": {
