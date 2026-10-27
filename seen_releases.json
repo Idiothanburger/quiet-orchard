@@ -817,6 +817,10 @@
    "name": "Narase",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B09LV8P5JK": {
+   "name": "Shiyui",
+   "baselined_at": "2026-10-27T18:03:26+00:00"
+  },
   "B09NJRWH8W": {
    "name": "imase",
    "baselined_at": "2026-10-03T03:54:15+00:00"
@@ -8698,6 +8702,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0C1K29TR2",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0C1NDR491": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Kimikimimai",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0C1NDR491",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0C1NGTQPN": {
    "artist_id": "B07S7BMKSZ",
    "artist_name": "QUEEN BEE",
@@ -9175,6 +9188,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0C3ZH6D4C",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0C3ZLJ64L": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Fumougeki",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0C3ZLJ64L",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0C3ZNMH8S": {
    "artist_id": "B07S7BMKSZ",
    "artist_name": "QUEEN BEE",
@@ -9318,6 +9340,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0C4X3CZJ1",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0C4YK94FP": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Shiyui2",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0C4YK94FP",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0C5F13C84": {
    "artist_id": "B01LQQN1XY",
@@ -9940,6 +9971,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0C9PK19LC",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0C9PQQKCY": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Happiness of the Dead",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0C9PQQKCY",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0C9SQ3YPK": {
    "artist_id": "B009M5A5FY",
    "artist_name": "YU-KA",
@@ -10416,6 +10456,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0CD7K7LMF",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0CD7TX914": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Happiness of the Dead",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0CD7TX914",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0CDCKCL2B": {
    "artist_id": "B08NWP85XP",
@@ -13000,6 +13049,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0CQYWGNLP",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0CQZ5QXY6": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Love Call",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0CQZ5QXY6",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0CR17SNTR": {
    "artist_id": "B0CHDRJXF3",
    "artist_name": "ReGLOSS",
@@ -13521,6 +13579,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0CV4ZNT9G",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0CV5133X6": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Love Call",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0CV5133X6",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0CV5MHFDR": {
    "artist_id": "B00F14GLL2",
@@ -15259,6 +15326,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0D2D16GBT",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0D2D1B737": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Hitochigai",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0D2D1B737",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0D2D1J7TS": {
    "artist_id": "B095VPBTHF",
    "artist_name": "Kairi Yagi",
@@ -15609,6 +15685,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0D3PPVFM4",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0D3PTQ6DS": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "be noble",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0D3PTQ6DS",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0D3QM876G": {
    "artist_id": "B07S99239Z",
@@ -18796,6 +18881,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0DJ8GQYLR",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DJ8JC3HD": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Hollow",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DJ8JC3HD",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0DJ9SY9X4": {
    "artist_id": "B0BB1P1P8L",
    "artist_name": "Tatsuya Kitani & natori",
@@ -19966,6 +20060,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0DMZQ5BQ3",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DN1J87X1": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Hollow",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DN1J87X1",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0DN1R8RR8": {
    "artist_id": "B00GWLIIZA",
    "artist_name": "Tsukino",
@@ -20847,6 +20950,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DR2G3BZJ",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DR2PMZ96": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Overlap",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DR2PMZ96",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0DR821PJ1": {
    "artist_id": "B084VQSYZM",
@@ -22071,6 +22183,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DWXBML4S",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DWXS8YSD": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Overlap",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DWXS8YSD",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0DWXTVXWG": {
    "artist_id": "B07S99239Z",
@@ -29623,6 +29744,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0FRLJZZ8M",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0FRM55SB3": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Inferior",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FRM55SB3",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0FRMK3KMC": {
    "artist_id": "B082BD2C83",
    "artist_name": "YOASOBI",
@@ -31440,6 +31570,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0G12CXNNF",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0G13P8S35": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Inferior",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0G13P8S35",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0G13VWN9Y": {
    "artist_id": "B0DMD2KM23",
@@ -36895,6 +37034,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0GVB95LZM",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0GVDCMXB6": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Reach for the light",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0GVDCMXB6",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0GVF1MD5L": {
    "artist_id": "B00LL4B9PE",
    "artist_name": "CHiCO with HoneyWorks",
@@ -38524,6 +38672,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0H1RVX37J",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0H1S73NPR": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Reach for the light",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0H1S73NPR",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0H1TFZDCZ": {
    "artist_id": "B0DLPHFWQY",
    "artist_name": "Tatsh & Ozon",
@@ -40035,6 +40192,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0H6FDB559",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0H6G3V1TC": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Reinkarnation",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0H6G3V1TC",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0H6L8Z726": {
    "artist_id": "B0857K74GG",
@@ -43717,6 +43883,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HJW44FBT",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HJWDGDWZ": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "Timeslot",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HJWDGDWZ",
+   "detected_at": "2026-10-27T18:03:26+00:00"
+  },
   "B0HJYKFNZL": {
    "artist_id": "B0GVQ9P36K",
    "artist_name": "Umamusume: Pretty Derby",
@@ -45282,6 +45457,15 @@
    "release_date": "2026-10-21",
    "release_url": "https://music.amazon.com.au/albums/B0HN45W3ML",
    "detected_at": "2026-10-20T13:03:31+00:00"
+  },
+  "B0HN4DB2H1": {
+   "artist_id": "B09LV8P5JK",
+   "artist_name": "Shiyui",
+   "release_name": "HORAGE",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HN4DB2H1",
+   "detected_at": "2026-10-27T18:03:26+00:00"
   },
   "B0HN4JG5QP": {
    "artist_id": "B0DGSJN4HZ",
