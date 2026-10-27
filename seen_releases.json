@@ -45184,6 +45184,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HMZTQVVV",
    "detected_at": "2026-10-20T13:03:31+00:00"
   },
+  "B0HN1CNDLK": {
+   "artist_id": "B0171RLX50",
+   "artist_name": "BAND-MAID",
+   "release_name": "SPIN",
+   "release_type": "Single",
+   "release_date": "2026-10-27",
+   "release_url": "https://music.amazon.com.au/albums/B0HN1CNDLK",
+   "detected_at": "2026-10-27T15:03:28+00:00"
+  },
   "B0HN1NC255": {
    "artist_id": "B07XN5JP9W",
    "artist_name": "hololive IDOL PROJECT",
@@ -45273,6 +45282,15 @@
    "release_date": "2026-10-21",
    "release_url": "https://music.amazon.com.au/albums/B0HN45W3ML",
    "detected_at": "2026-10-20T13:03:31+00:00"
+  },
+  "B0HN4JG5QP": {
+   "artist_id": "B0DGSJN4HZ",
+   "artist_name": "MARUMOCHI from HoneyWorks [feat. Homare Udagawa(CV:Miyu Tomita)]",
+   "release_name": "Praise me, Homare",
+   "release_type": "Single",
+   "release_date": "2026-10-27",
+   "release_url": "https://music.amazon.com.au/albums/B0HN4JG5QP",
+   "detected_at": "2026-10-27T15:03:28+00:00"
   },
   "B0HN6XH591": {
    "artist_id": "B074DM9QF1",
