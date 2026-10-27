@@ -1813,6 +1813,15 @@
    "release_url": "https://music.amazon.com.au/albums/B07XT9FWB4",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B07YG7R4ZM": {
+   "artist_id": "B00BUAIBE6",
+   "artist_name": "Mitchie M [feat. Hatsune Miku]",
+   "release_name": "Virtual Pop Star",
+   "release_type": "Album",
+   "release_date": "2019-11-06",
+   "release_url": "https://music.amazon.com.au/albums/B07YG7R4ZM",
+   "detected_at": "2026-10-27T10:33:15+00:00"
+  },
   "B07YKZ3MYJ": {
    "artist_id": "B00BUAIBE6",
    "artist_name": "Mitchie M [feat. Hatsune Miku & Megurine Luka]",
