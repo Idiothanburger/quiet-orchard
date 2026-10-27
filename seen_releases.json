@@ -1253,6 +1253,10 @@
    "name": "GROTESQQQUE & Nanahira",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HCZK2XWT": {
+   "name": "YuukiSakuna",
+   "baselined_at": "2026-10-27T18:33:21+00:00"
+  },
   "B0HFQZSN97": {
    "name": "infinir, Nakuru Aitsuki, Amai Mipu, Hanazono Serena, Hiru, mikage, Akki , Mikito-P, Sena Wataru, Kandelaar, konon & aaaaaaaaaalmond",
    "baselined_at": "2026-10-03T03:54:15+00:00"
@@ -42020,6 +42024,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HCZX6ZKX",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0HCZZDBLY": {
+   "artist_id": "B0HCZK2XWT",
+   "artist_name": "YuukiSakuna",
+   "release_name": "Re, bloom*",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HCZZDBLY",
+   "detected_at": "2026-10-27T18:33:21+00:00"
+  },
   "B0HD112KWH": {
    "artist_id": "B01CQFU6QY",
    "artist_name": "DYES IWASAKI",
@@ -45781,6 +45794,15 @@
    "release_date": "2026-10-24",
    "release_url": "https://music.amazon.com.au/albums/B0HP72R2M8",
    "detected_at": "2026-10-25T00:03:22+00:00"
+  },
+  "B0HP7ZDTM7": {
+   "artist_id": "B0HCZK2XWT",
+   "artist_name": "YuukiSakuna",
+   "release_name": "Nyan Nyan Kyururun! Cat Concentration",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0HP7ZDTM7",
+   "detected_at": "2026-10-27T18:33:21+00:00"
   },
   "B0HPBBSZF7": {
    "artist_id": "B07LH5B3G1",
