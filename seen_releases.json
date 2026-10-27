@@ -45812,6 +45812,15 @@
    "release_date": "2026-08-26",
    "release_url": "https://music.amazon.com.au/albums/B0HPBBSZF7",
    "detected_at": "2026-10-26T10:03:24+00:00"
+  },
+  "B0HPJ228NP": {
+   "artist_id": "B0D797CSX1",
+   "artist_name": "Sān-Z",
+   "release_name": "1% Low Battery Girl",
+   "release_type": "Single",
+   "release_date": "2026-10-25",
+   "release_url": "https://music.amazon.com.au/albums/B0HPJ228NP",
+   "detected_at": "2026-10-27T23:03:23+00:00"
   }
  },
  "meta": {
