@@ -898,7 +898,7 @@
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B0B93V1NX6": {
-   "name": "Solidbeats & Una Otomachi",
+   "name": "Solidbeats [feat. Hatsune Miku]",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B0BB1P1P8L": {
@@ -45228,6 +45228,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HMCRC1M1",
    "detected_at": "2026-10-22T13:03:34+00:00"
   },
+  "B0HMD1VX1Y": {
+   "artist_id": "B0BYYWWB21",
+   "artist_name": "NOR",
+   "release_name": "Plz Smile!!",
+   "release_type": "Album",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HMD1VX1Y",
+   "detected_at": "2026-10-29T13:03:33+00:00"
+  },
   "B0HMFKW6N2": {
    "artist_id": "B0C2BM1KX2",
    "artist_name": "HoYoFair",
@@ -45462,6 +45471,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HN3VWPSV",
    "detected_at": "2026-10-27T13:03:27+00:00"
   },
+  "B0HN3YJWXW": {
+   "artist_id": "B0C6H48GZP",
+   "artist_name": "d0tc0mmie & CitroP [feat. Kasane Teto & Hatsune Miku]",
+   "release_name": "Dream",
+   "release_type": "EP",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HN3YJWXW",
+   "detected_at": "2026-10-29T13:03:32+00:00"
+  },
   "B0HN4356GN": {
    "artist_id": "B09FY8TZGZ",
    "artist_name": "UshioReira",
@@ -45498,6 +45516,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HN4JG5QP",
    "detected_at": "2026-10-27T15:03:28+00:00"
   },
+  "B0HN6QZ7RW": {
+   "artist_id": "B0GZZFPWB6",
+   "artist_name": "SUMOA AMAZURA",
+   "release_name": "sekai se-huku",
+   "release_type": "Single",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HN6QZ7RW",
+   "detected_at": "2026-10-29T13:03:35+00:00"
+  },
   "B0HN6XH591": {
    "artist_id": "B074DM9QF1",
    "artist_name": "Creepy Nuts",
@@ -45533,6 +45560,24 @@
    "release_date": "2026-10-23",
    "release_url": "https://music.amazon.com.au/albums/B0HN74L8TS",
    "detected_at": "2026-10-22T13:03:35+00:00"
+  },
+  "B0HN75T2TP": {
+   "artist_id": "B0C4Y269L2",
+   "artist_name": "Hakame [feat. Kasane Teto]",
+   "release_name": "Spice Merge",
+   "release_type": "Single",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HN75T2TP",
+   "detected_at": "2026-10-29T13:03:32+00:00"
+  },
+  "B0HN79GP9N": {
+   "artist_id": "B00LL4B9PE",
+   "artist_name": "mona (CV: Shiina Natsukawa) & CHiCO with HoneyWorks",
+   "release_name": "Harajuku de Ichigo Ore",
+   "release_type": "Single",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HN79GP9N",
+   "detected_at": "2026-10-29T13:03:32+00:00"
   },
   "B0HN873SX8": {
    "artist_id": "B083RWV5G2",
@@ -45830,6 +45875,15 @@
    "release_date": "2026-08-26",
    "release_url": "https://music.amazon.com.au/albums/B0HPBBSZF7",
    "detected_at": "2026-10-26T10:03:24+00:00"
+  },
+  "B0HPFGLNQJ": {
+   "artist_id": "B01MYX5MH0",
+   "artist_name": "Chanmina",
+   "release_name": "History",
+   "release_type": "Single",
+   "release_date": "2026-10-30",
+   "release_url": "https://music.amazon.com.au/albums/B0HPFGLNQJ",
+   "detected_at": "2026-10-29T13:03:32+00:00"
   },
   "B0HPJ228NP": {
    "artist_id": "B0D797CSX1",
