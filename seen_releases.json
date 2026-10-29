@@ -898,7 +898,7 @@
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B0B93V1NX6": {
-   "name": "Solidbeats [feat. Hatsune Miku]",
+   "name": "Solidbeats & Una Otomachi",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B0BB1P1P8L": {
@@ -45857,6 +45857,15 @@
    "release_date": "2026-10-29",
    "release_url": "https://music.amazon.com.au/albums/B0HPN5GFJ4",
    "detected_at": "2026-10-29T04:33:13+00:00"
+  },
+  "B0HPPHZX7F": {
+   "artist_id": "B000RQRPM8",
+   "artist_name": "MIMI [feat. Kasane Teto]",
+   "release_name": "Mystery (feat. KASANE TETO)",
+   "release_type": "Single",
+   "release_date": "2026-10-29",
+   "release_url": "https://music.amazon.com.au/albums/B0HPPHZX7F",
+   "detected_at": "2026-10-29T12:33:21+00:00"
   }
  },
  "meta": {
