@@ -46064,6 +46064,15 @@
    "release_date": "2026-10-30",
    "release_url": "https://music.amazon.com.au/albums/B0HPXH761N",
    "detected_at": "2026-10-31T03:33:14+00:00"
+  },
+  "B0HQ54JSRT": {
+   "artist_id": "B000QKKT0U",
+   "artist_name": "Choko",
+   "release_name": "SPOOKY HALLOWEEN",
+   "release_type": "Single",
+   "release_date": "2026-11-02",
+   "release_url": "https://music.amazon.com.au/albums/B0HQ54JSRT",
+   "detected_at": "2026-11-02T12:33:13+00:00"
   }
  },
  "meta": {
