@@ -46217,6 +46217,15 @@
    "release_date": "2026-11-02",
    "release_url": "https://music.amazon.com.au/albums/B0HQ54JSRT",
    "detected_at": "2026-11-02T12:33:13+00:00"
+  },
+  "B0HQCSTVRG": {
+   "artist_id": "B08P7LLY6Z",
+   "artist_name": "Gwennie, Minami, Mori Calliope & BadKarma",
+   "release_name": "time effect",
+   "release_type": "EP",
+   "release_date": "2026-10-31",
+   "release_url": "https://music.amazon.com.au/albums/B0HQCSTVRG",
+   "detected_at": "2026-11-04T11:33:15+00:00"
   }
  },
  "meta": {
