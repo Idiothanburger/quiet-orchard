@@ -3360,6 +3360,15 @@
    "release_url": "https://music.amazon.com.au/albums/B09BKCXWR7",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B09BKDKMC3": {
+   "artist_id": "B09BHY7W6L",
+   "artist_name": "kurousagi",
+   "release_name": "fragment",
+   "release_type": "Single",
+   "release_date": "2021-07-31",
+   "release_url": "https://music.amazon.com.au/albums/B09BKDKMC3",
+   "detected_at": "2026-11-07T02:03:21+00:00"
+  },
   "B09BKZLZXC": {
    "artist_id": "B07K2N11BD",
    "artist_name": "EmoCosine",
