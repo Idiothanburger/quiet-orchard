@@ -74,7 +74,7 @@
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B003RRA7EW": {
-   "name": "De De Mouse & Hatsune Miku",
+   "name": "De De Mouse",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B003S99IVM": {
@@ -45912,6 +45912,24 @@
    "release_url": "https://music.amazon.com.au/albums/B0HNRLPFJZ",
    "detected_at": "2026-11-08T13:03:22+00:00"
   },
+  "B0HNRQR7N7": {
+   "artist_id": "B0038QOFE0",
+   "artist_name": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+   "release_name": "Beyond the Night feat. Ayane Sakura (as GABRIEL), Nagi Inoue (from Nogizaka46)",
+   "release_type": "Single",
+   "release_date": "2026-11-18",
+   "release_url": "https://music.amazon.com.au/albums/B0HNRQR7N7",
+   "detected_at": "2026-11-10T13:03:29+00:00"
+  },
+  "B0HNRTJVG2": {
+   "artist_id": "B0038QOFE0",
+   "artist_name": "TeddyLoid, Ayane Sakura & Nagi Inoue",
+   "release_name": "Beyond the Night feat. Ayane Sakura (as GABRIEL), Nagi Inoue (from Nogizaka46)",
+   "release_type": "Single",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HNRTJVG2",
+   "detected_at": "2026-11-10T13:03:29+00:00"
+  },
   "B0HNRZ2VWW": {
    "artist_id": "B08BCNVZN9",
    "artist_name": "yama",
@@ -46182,6 +46200,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HPBBSZF7",
    "detected_at": "2026-10-26T10:03:24+00:00"
   },
+  "B0HPDYBMRR": {
+   "artist_id": "B00S4W4XF4",
+   "artist_name": "*Luna [feat. IA, Megpoid, Macne Nana, Kagamine Len, Tohoku Zunko & Kagamine Rin]",
+   "release_name": "Magic of Youth",
+   "release_type": "Album",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HPDYBMRR",
+   "detected_at": "2026-11-10T13:03:26+00:00"
+  },
   "B0HPF52ZML": {
    "artist_id": "B07K2N11BD",
    "artist_name": "Usao, EmoCosine & Qlarabelle",
@@ -46227,6 +46254,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HPFQKFKP",
    "detected_at": "2026-11-03T13:03:32+00:00"
   },
+  "B0HPFWKNL7": {
+   "artist_id": "B01MYX5MH0",
+   "artist_name": "Chanmina",
+   "release_name": "LEGEND",
+   "release_type": "Album",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HPFWKNL7",
+   "detected_at": "2026-11-10T13:03:26+00:00"
+  },
   "B0HPJ228NP": {
    "artist_id": "B0D797CSX1",
    "artist_name": "Sān-Z",
@@ -46262,6 +46298,15 @@
    "release_date": "2026-10-17",
    "release_url": "https://music.amazon.com.au/albums/B0HPKYCZG1",
    "detected_at": "2026-10-28T12:03:24+00:00"
+  },
+  "B0HPL12VZD": {
+   "artist_id": "B003RRA7EW",
+   "artist_name": "De De Mouse",
+   "release_name": "pancake crusades_ feat. Yuka Nagase",
+   "release_type": "Single",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HPL12VZD",
+   "detected_at": "2026-11-10T13:03:29+00:00"
   },
   "B0HPMSB7D9": {
    "artist_id": "B0D32FFRHW",
@@ -46335,6 +46380,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HPPB2DF7",
    "detected_at": "2026-10-30T10:03:22+00:00"
   },
+  "B0HPPDHPKT": {
+   "artist_id": "B008OI890S",
+   "artist_name": "ClariS",
+   "release_name": "Synchro Blue",
+   "release_type": "EP",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HPPDHPKT",
+   "detected_at": "2026-11-10T13:03:27+00:00"
+  },
   "B0HPPHZX7F": {
    "artist_id": "B000RQRPM8",
    "artist_name": "MIMI [feat. Kasane Teto]",
@@ -46370,6 +46424,15 @@
    "release_date": "2026-11-05",
    "release_url": "https://music.amazon.com.au/albums/B0HPSCGY4C",
    "detected_at": "2026-11-05T15:03:23+00:00"
+  },
+  "B0HPSQNBV4": {
+   "artist_id": "B0D1CGVMST",
+   "artist_name": "Tokyo Manaka [feat. Hatsune Miku]",
+   "release_name": "Memory",
+   "release_type": "Single",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HPSQNBV4",
+   "detected_at": "2026-11-10T13:03:29+00:00"
   },
   "B0HPSZ7ZY5": {
    "artist_id": "B07D637DJ1",
@@ -46488,6 +46551,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HQCSTVRG",
    "detected_at": "2026-11-04T11:33:15+00:00"
   },
+  "B0HQHTCS92": {
+   "artist_id": "B003S99IVM",
+   "artist_name": "buzzG [feat. Syamo, Sarah L-ee, VACON & aohi rame]",
+   "release_name": "Close to you (feat. syamo, Sarah L-ee, VACON & Aohi Rame)",
+   "release_type": "Single",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HQHTCS92",
+   "detected_at": "2026-11-10T13:03:26+00:00"
+  },
   "B0HQHYH1SL": {
    "artist_id": "B07L2WLZHN",
    "artist_name": "Tota Kasamura",
@@ -46496,6 +46568,15 @@
    "release_date": "2026-11-06",
    "release_url": "https://music.amazon.com.au/albums/B0HQHYH1SL",
    "detected_at": "2026-11-05T13:03:24+00:00"
+  },
+  "B0HQN73LTS": {
+   "artist_id": "B000QKKT0U",
+   "artist_name": "Choko & Lilo Tension",
+   "release_name": "A PRUEBA Y ERROR",
+   "release_type": "Album",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HQN73LTS",
+   "detected_at": "2026-11-10T13:03:26+00:00"
   },
   "B0HQN9ZKZ3": {
    "artist_id": "B000QKKT0U",
@@ -46514,6 +46595,15 @@
    "release_date": "2026-11-10",
    "release_url": "https://music.amazon.com.au/albums/B0HQNH31WF",
    "detected_at": "2026-11-09T13:03:26+00:00"
+  },
+  "B0HQNH6C3Z": {
+   "artist_id": "B082BD2C83",
+   "artist_name": "YOASOBI",
+   "release_name": "KILLA",
+   "release_type": "Single",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HQNH6C3Z",
+   "detected_at": "2026-11-10T13:03:29+00:00"
   },
   "B0HQPGB7L2": {
    "artist_id": "B0D6HJZM97",
