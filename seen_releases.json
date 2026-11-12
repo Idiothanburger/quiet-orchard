@@ -738,7 +738,7 @@
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B092QBYL1T": {
-   "name": "Adeliae [feat. Kasane Teto]",
+   "name": "Adeliae [feat. Hatsune Miku]",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
   "B095VPBTHF": {
@@ -46542,6 +46542,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HQ2TVSFY",
    "detected_at": "2026-11-09T13:03:26+00:00"
   },
+  "B0HQ3FNLD2": {
+   "artist_id": "B00S8GE5H2",
+   "artist_name": "RiraN [feat. AZK]",
+   "release_name": "False Dawn",
+   "release_type": "Single",
+   "release_date": "2026-11-13",
+   "release_url": "https://music.amazon.com.au/albums/B0HQ3FNLD2",
+   "detected_at": "2026-11-12T13:03:28+00:00"
+  },
   "B0HQ54JSRT": {
    "artist_id": "B000QKKT0U",
    "artist_name": "Choko",
@@ -46559,6 +46568,24 @@
    "release_date": "2026-11-06",
    "release_url": "https://music.amazon.com.au/albums/B0HQ5CZ7MQ",
    "detected_at": "2026-11-05T13:03:26+00:00"
+  },
+  "B0HQC6K8X3": {
+   "artist_id": "B092QBYL1T",
+   "artist_name": "Adeliae [feat. Kagamine Rin & Kagamine Len]",
+   "release_name": "Umbrella & Umbrella",
+   "release_type": "Single",
+   "release_date": "2026-11-13",
+   "release_url": "https://music.amazon.com.au/albums/B0HQC6K8X3",
+   "detected_at": "2026-11-12T13:03:27+00:00"
+  },
+  "B0HQC7B6FC": {
+   "artist_id": "B092QBYL1T",
+   "artist_name": "Adeliae [feat. UI]",
+   "release_name": "You're a Bomber.",
+   "release_type": "Single",
+   "release_date": "2026-11-13",
+   "release_url": "https://music.amazon.com.au/albums/B0HQC7B6FC",
+   "detected_at": "2026-11-12T13:03:27+00:00"
   },
   "B0HQCBVBN9": {
    "artist_id": "B0DMD2KM23",
@@ -46586,6 +46613,15 @@
    "release_date": "2026-10-31",
    "release_url": "https://music.amazon.com.au/albums/B0HQCSTVRG",
    "detected_at": "2026-11-04T11:33:15+00:00"
+  },
+  "B0HQDJT86L": {
+   "artist_id": "B000V98MDC",
+   "artist_name": "KIRA",
+   "release_name": "ANG4L",
+   "release_type": "Single",
+   "release_date": "2026-11-13",
+   "release_url": "https://music.amazon.com.au/albums/B0HQDJT86L",
+   "detected_at": "2026-11-12T13:03:28+00:00"
   },
   "B0HQHTCS92": {
    "artist_id": "B003S99IVM",
@@ -46703,6 +46739,15 @@
    "release_date": "2026-11-11",
    "release_url": "https://music.amazon.com.au/albums/B0HRF5CC1Q",
    "detected_at": "2026-11-12T09:33:23+00:00"
+  },
+  "B0HRFBVR2Q": {
+   "artist_id": "B00GWLIIZA",
+   "artist_name": "Tsukino",
+   "release_name": "ASTRO DIVE",
+   "release_type": "Album",
+   "release_date": "2026-10-25",
+   "release_url": "https://music.amazon.com.au/albums/B0HRFBVR2Q",
+   "detected_at": "2026-11-12T13:03:27+00:00"
   }
  },
  "meta": {
