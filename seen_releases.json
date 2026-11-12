@@ -46694,6 +46694,15 @@
    "release_date": "2026-11-12",
    "release_url": "https://music.amazon.com.au/albums/B0HRF2T326",
    "detected_at": "2026-11-12T09:03:24+00:00"
+  },
+  "B0HRF5CC1Q": {
+   "artist_id": "B0D6HJZM97",
+   "artist_name": "Wuthering Waves",
+   "release_name": "Flowers in a Dream (Original Game Soundtrack)",
+   "release_type": "Album",
+   "release_date": "2026-11-11",
+   "release_url": "https://music.amazon.com.au/albums/B0HRF5CC1Q",
+   "detected_at": "2026-11-12T09:33:23+00:00"
   }
  },
  "meta": {
