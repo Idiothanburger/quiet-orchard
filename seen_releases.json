@@ -46155,6 +46155,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HP1TXWRB",
    "detected_at": "2026-10-25T13:03:23+00:00"
   },
+  "B0HP1ZBW4T": {
+   "artist_id": "B0BYYWWB21",
+   "artist_name": "NOR",
+   "release_name": "lost",
+   "release_type": "Single",
+   "release_date": "2026-11-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HP1ZBW4T",
+   "detected_at": "2026-11-15T13:03:22+00:00"
+  },
   "B0HP6C3KXY": {
    "artist_id": "B00V07MXZC",
    "artist_name": "Synthion",
@@ -46505,6 +46514,15 @@
    "release_date": "2024-10-27",
    "release_url": "https://music.amazon.com.au/albums/B0HPTHTSWT",
    "detected_at": "2026-11-09T13:03:25+00:00"
+  },
+  "B0HPTP8R4J": {
+   "artist_id": "B07ZLQFCRG",
+   "artist_name": "Risa Yuzuki [feat. Feryquitous]",
+   "release_name": "EtE (feat. Feryquitous)",
+   "release_type": "Single",
+   "release_date": "2026-11-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HPTP8R4J",
+   "detected_at": "2026-11-15T13:03:22+00:00"
   },
   "B0HPTVBZ8N": {
    "artist_id": "B003S99IVM",
