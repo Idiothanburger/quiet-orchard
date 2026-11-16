@@ -46892,6 +46892,15 @@
    "release_date": "2026-11-16",
    "release_url": "https://music.amazon.com.au/albums/B0HRV73VTP",
    "detected_at": "2026-11-16T11:03:25+00:00"
+  },
+  "B0HRVRGBZP": {
+   "artist_id": "B000QKKT0U",
+   "artist_name": "Choko",
+   "release_name": "ENDEMONIAO",
+   "release_type": "Single",
+   "release_date": "2026-11-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HRVRGBZP",
+   "detected_at": "2026-11-16T14:33:23+00:00"
   }
  },
  "meta": {
