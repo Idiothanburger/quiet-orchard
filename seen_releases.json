@@ -46847,6 +46847,15 @@
    "release_date": "2026-11-14",
    "release_url": "https://music.amazon.com.au/albums/B0HRQJ6W7C",
    "detected_at": "2026-11-14T18:33:16+00:00"
+  },
+  "B0HRV73VTP": {
+   "artist_id": "B000QKKT0U",
+   "artist_name": "Choko",
+   "release_name": "FAVELA",
+   "release_type": "Single",
+   "release_date": "2026-11-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HRV73VTP",
+   "detected_at": "2026-11-16T11:03:25+00:00"
   }
  },
  "meta": {
