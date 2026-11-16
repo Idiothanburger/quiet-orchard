@@ -46578,6 +46578,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HQ3FNLD2",
    "detected_at": "2026-11-12T13:03:28+00:00"
   },
+  "B0HQ4FGX6R": {
+   "artist_id": "B0048CEETO",
+   "artist_name": "Oster Project",
+   "release_name": "OSTER san no CD VOL.4",
+   "release_type": "Album",
+   "release_date": "2026-11-17",
+   "release_url": "https://music.amazon.com.au/albums/B0HQ4FGX6R",
+   "detected_at": "2026-11-16T13:03:35+00:00"
+  },
   "B0HQ54JSRT": {
    "artist_id": "B000QKKT0U",
    "artist_name": "Choko",
@@ -46622,6 +46631,15 @@
    "release_date": "2026-11-13",
    "release_url": "https://music.amazon.com.au/albums/B0HQC7B6FC",
    "detected_at": "2026-11-12T13:03:27+00:00"
+  },
+  "B0HQC8V5WJ": {
+   "artist_id": "B0D32FFRHW",
+   "artist_name": "Hatsuboshi Gakuen, Anna Takeuchi & Kanae Hiwatari",
+   "release_name": "Metamorphose",
+   "release_type": "Single",
+   "release_date": "2026-11-17",
+   "release_url": "https://music.amazon.com.au/albums/B0HQC8V5WJ",
+   "detected_at": "2026-11-16T13:03:34+00:00"
   },
   "B0HQCBVBN9": {
    "artist_id": "B0DMD2KM23",
@@ -46829,6 +46847,24 @@
    "release_date": "2026-11-13",
    "release_url": "https://music.amazon.com.au/albums/B0HRJJSPTB",
    "detected_at": "2026-11-13T04:03:25+00:00"
+  },
+  "B0HRJSSNFT": {
+   "artist_id": "B07LH5B3G1",
+   "artist_name": "HOYO-MiX",
+   "release_name": "Songs Rippling Through Memories (Honkai Impact 3rd Original Soundtrack)",
+   "release_type": "Album",
+   "release_date": "2026-11-17",
+   "release_url": "https://music.amazon.com.au/albums/B0HRJSSNFT",
+   "detected_at": "2026-11-16T13:03:34+00:00"
+  },
+  "B0HRJTNKDQ": {
+   "artist_id": "B07LH5B3G1",
+   "artist_name": "HOYO-MiX",
+   "release_name": "Looking Back from Beyond the Future (Honkai Impact 3rd Original Soundtrack)",
+   "release_type": "Album",
+   "release_date": "2026-11-17",
+   "release_url": "https://music.amazon.com.au/albums/B0HRJTNKDQ",
+   "detected_at": "2026-11-16T13:03:34+00:00"
   },
   "B0HRK11J1N": {
    "artist_id": "B0CFBTTH3R",
