@@ -46973,6 +46973,15 @@
    "release_date": "2026-11-16",
    "release_url": "https://music.amazon.com.au/albums/B0HRVRGBZP",
    "detected_at": "2026-11-16T14:33:23+00:00"
+  },
+  "B0HS3SGZ7T": {
+   "artist_id": "B00GWLIIZA",
+   "artist_name": "Tsukino",
+   "release_name": "ASTRO DIVE",
+   "release_type": "Album",
+   "release_date": "2026-10-25",
+   "release_url": "https://music.amazon.com.au/albums/B0HS3SGZ7T",
+   "detected_at": "2026-11-18T05:03:23+00:00"
   }
  },
  "meta": {
