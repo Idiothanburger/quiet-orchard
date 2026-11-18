@@ -46641,6 +46641,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0HQ6321LZ",
    "detected_at": "2026-11-13T13:03:24+00:00"
   },
+  "B0HQBDC247": {
+   "artist_id": "B0BPHH99HD",
+   "artist_name": "MOTTO MUSIC, Tsubusare BOZZ & real miro",
+   "release_name": "Otsukare-sama deshita.",
+   "release_type": "Single",
+   "release_date": "2026-11-19",
+   "release_url": "https://music.amazon.com.au/albums/B0HQBDC247",
+   "detected_at": "2026-11-18T13:03:29+00:00"
+  },
   "B0HQC6K8X3": {
    "artist_id": "B092QBYL1T",
    "artist_name": "Adeliae [feat. Kagamine Rin & Kagamine Len]",
@@ -46964,6 +46973,15 @@
    "release_date": "2026-11-16",
    "release_url": "https://music.amazon.com.au/albums/B0HRV73VTP",
    "detected_at": "2026-11-16T11:03:25+00:00"
+  },
+  "B0HRVKB2QB": {
+   "artist_id": "B00JQ8XKSQ",
+   "artist_name": "marasy [feat. Hatsune Miku]",
+   "release_name": "ai wo shiru",
+   "release_type": "Single",
+   "release_date": "2026-11-19",
+   "release_url": "https://music.amazon.com.au/albums/B0HRVKB2QB",
+   "detected_at": "2026-11-18T13:03:28+00:00"
   },
   "B0HRVRGBZP": {
    "artist_id": "B000QKKT0U",
