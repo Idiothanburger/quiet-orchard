@@ -1121,6 +1121,10 @@
    "name": "雨良",
    "baselined_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DGKZM1HQ": {
+   "name": "SuzukiNono",
+   "baselined_at": "2026-11-20T12:33:19+00:00"
+  },
   "B0DGSJN4HZ": {
    "name": "MARUMOCHI from HoneyWorks [feat. HaKoniwalily]",
    "baselined_at": "2026-10-03T12:03:17+00:00"
@@ -18336,6 +18340,15 @@
    "release_url": "https://music.amazon.com.au/albums/B0DGJRGHYT",
    "detected_at": "2026-10-03T03:54:15+00:00"
   },
+  "B0DGKWVC85": {
+   "artist_id": "B0DGKZM1HQ",
+   "artist_name": "SuzukiNono",
+   "release_name": "Omaera, kouiunogasukinandaro",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DGKWVC85",
+   "detected_at": "2026-11-20T12:33:19+00:00"
+  },
   "B0DGKY4D42": {
    "artist_id": "B00S4W4XF4",
    "artist_name": "*Luna",
@@ -18479,6 +18492,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DGTRPL2N",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DGTX2XDK": {
+   "artist_id": "B0DGKZM1HQ",
+   "artist_name": "SuzukiNono",
+   "release_name": "Baby Blue Eyes",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DGTX2XDK",
+   "detected_at": "2026-11-20T12:33:19+00:00"
   },
   "B0DGX27FYZ": {
    "artist_id": "B07N7W37VK",
@@ -21188,6 +21210,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0DRJDWDR5",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0DRJJ91GB": {
+   "artist_id": "B0DGKZM1HQ",
+   "artist_name": "SuzukiNono",
+   "release_name": "Fuzzy Navel",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0DRJJ91GB",
+   "detected_at": "2026-11-20T12:33:19+00:00"
   },
   "B0DRNTDWSJ": {
    "artist_id": "B0D847TCP7",
@@ -27722,6 +27753,15 @@
    "release_date": "",
    "release_url": "https://music.amazon.com.au/albums/B0FLK2BTBQ",
    "detected_at": "2026-10-03T03:54:15+00:00"
+  },
+  "B0FLK3PF92": {
+   "artist_id": "B0DGKZM1HQ",
+   "artist_name": "SuzukiNono",
+   "release_name": "Sakurairo Pure Memory",
+   "release_type": "",
+   "release_date": "",
+   "release_url": "https://music.amazon.com.au/albums/B0FLK3PF92",
+   "detected_at": "2026-11-20T12:33:19+00:00"
   },
   "B0FLLK9S77": {
    "artist_id": "B0973VYLCH",
@@ -47045,6 +47085,33 @@
    "release_date": "2026-11-20",
    "release_url": "https://music.amazon.com.au/albums/B0HSBZBLPW",
    "detected_at": "2026-11-20T10:03:28+00:00"
+  },
+  "B0HSC7X2GD": {
+   "artist_id": "B0FF2Z5DLV",
+   "artist_name": "Hakumei seitokai",
+   "release_name": "Triangle Sign",
+   "release_type": "Single",
+   "release_date": "2026-08-16",
+   "release_url": "https://music.amazon.com.au/albums/B0HSC7X2GD",
+   "detected_at": "2026-11-20T12:33:19+00:00"
+  },
+  "B0HSCJBWJJ": {
+   "artist_id": "B0FF2Z5DLV",
+   "artist_name": "Hakumei seitokai",
+   "release_name": "START SHITARA ACCHUUMA!",
+   "release_type": "EP",
+   "release_date": "2026-04-26",
+   "release_url": "https://music.amazon.com.au/albums/B0HSCJBWJJ",
+   "detected_at": "2026-11-20T12:33:19+00:00"
+  },
+  "B0HSCL54PH": {
+   "artist_id": "B0FF2Z5DLV",
+   "artist_name": "Hakumei seitokai",
+   "release_name": "Twilight Ribbon",
+   "release_type": "EP",
+   "release_date": "2025-04-27",
+   "release_url": "https://music.amazon.com.au/albums/B0HSCL54PH",
+   "detected_at": "2026-11-20T12:33:19+00:00"
   }
  },
  "meta": {
